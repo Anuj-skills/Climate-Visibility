@@ -12,14 +12,14 @@ This is a Data Analysis project with the vision of to develop a machine learning
 2. Machine learning algorithms 
 3. MongoDB
 
-## Softwres used
+## Softwares used
 1. VS Code
 2. Git
 
 ## Models Used
 
-* [K-Means](https://www.javatpoint.com/k-means-clustering-algorithm-in-machine-learning)
-* [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+* [K-Means]
+* [LogisticRegression]
 
 From these above models after hyperparameter optimization we selected these two models which were K-Means for clustering and Logistic Regression for classification and used the following in Pipeline.
 
@@ -30,6 +30,7 @@ From these above models after hyperparameter optimization we selected these two 
 
 - This Project can be used in real-life by Users.
 - ensures safety and reducing accidents risks.
+
 
 
 
